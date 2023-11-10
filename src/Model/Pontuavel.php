@@ -2,8 +2,8 @@
 
 namespace Alura\Solid\Model;
 
-interface Pontuavel 
+
+interface Pontuavel
 {
     public function recuperarPontuacao(): int;
 }
-
